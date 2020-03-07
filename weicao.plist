@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/MrHT/weicaodown/master/weicao.ipa</string>
+					<string>http://alade.jiuchengz.com/aldadhoc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.weicao.www</string>
+				<string>com.adelaadhoc.www</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
