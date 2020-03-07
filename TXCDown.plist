@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xtcpro.www</string>
+				<string>com.adelaadhoc.www</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>TXC生态链</string>
+				<string>阿拉德之怒</string>
 			</dict>
 		</dict>
 	</array>
