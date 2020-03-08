@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://alade.jiuchengz.com/aldadhoc.ipa</string>
+					<string>http://alade.jiuchengz.com/ald0308.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.adelaadhoc.www</string>
+				<string>com.0308.www</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>weicao</string>
+				<string>阿拉德之怒</string>
 			</dict>
 		</dict>
 	</array>
